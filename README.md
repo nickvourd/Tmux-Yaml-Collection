@@ -1,2 +1,2 @@
-# tmux_yml_file
+# tmux yml file
 A custom tmux yml file for pentest
