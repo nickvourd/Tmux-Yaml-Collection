@@ -1,2 +1,3 @@
 # Tmux Yaml Collection
-A custom tmux yml file for pentest
+
+Custom yaml files collection for tmux.
