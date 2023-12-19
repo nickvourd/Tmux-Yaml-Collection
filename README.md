@@ -22,8 +22,9 @@ sudo apt install tmuxp -y
 
 The following table illustrates my custom yaml files used during various engagements:
 
-| Tool | Description |
+| Yaml file | Description |
 | ---- | ----------- |
-| [pentest.yml](/Files/pentest.yml) |  Penetration test yaml file.  |
+| [pentest.yml](/Files/pentest.yml) |  Penetration Test yaml file.  |
+| [redteam.yml](Files/redteam.yml  | Red Team yaml file. |
 
 
