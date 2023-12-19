@@ -25,6 +25,20 @@ The following table illustrates my custom yaml files used during various engagem
 | Yaml file | Description |
 | ---- | ----------- |
 | [pentest.yml](/Files/pentest.yml) |  Penetration Test yaml file.  |
-| [redteam.yml](Files/redteam.yml  | Red Team yaml file. |
+| [redteam.yml](Files/redteam.yml)  | Red Team yaml file. |
 
+
+## Usage
+
+In order to load yaml in tmuxp use the following:
+
+```
+tmuxp <yaml_filename>.yml
+```
+
+Example:
+
+```
+tmuxp pentest.yml
+```
 
