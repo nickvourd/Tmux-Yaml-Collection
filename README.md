@@ -24,6 +24,6 @@ The following table illustrates my custom yaml files used during various engagem
 
 | Tool | Description |
 | ---- | ----------- |
-|      |  Penetration test yaml file.  |
+| [pentest.yml](/Files/pentest.yml) |  Penetration test yaml file.  |
 
 
