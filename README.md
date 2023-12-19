@@ -2,6 +2,10 @@
 
 Custom yaml files collection for tmux.
 
+<p align="center">
+  <img width="600" height="400" src="/Pictures/fly-profile.jpg">
+</p>
+
 ## Table of Contents
 
 - [Tmux Yaml Collection](#tmux-yaml-collection)
