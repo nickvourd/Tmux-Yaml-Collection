@@ -13,6 +13,7 @@ Custom yaml files collection for tmux.
   - [Installation](#installation)
   - [Scripts Table](#scripts-table)
   - [Usage](#usage)
+  - [References](#reference)
  
 ## Installation
 
@@ -46,3 +47,7 @@ Example:
 tmuxp pentest.yml
 ```
 
+## Reference
+
+- [tmuxp GitHub](https://github.com/tmux-python/tmuxp)
+- [Yaml Official Website](https://yaml.org)
